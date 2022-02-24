@@ -1,3 +1,1 @@
 its git test file
-
-its a new line
