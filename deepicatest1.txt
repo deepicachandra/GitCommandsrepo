@@ -1,2 +1,5 @@
 its second test file
+<<<<<<< HEAD
 its updated in master branch
+
+>>>>>>> dev
